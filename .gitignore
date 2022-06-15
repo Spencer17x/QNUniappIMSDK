@@ -117,5 +117,5 @@ dist
 .pnp.*
 
 # uniapp
-.project
+uni_modules
 unpackage
